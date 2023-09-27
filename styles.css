@@ -1,0 +1,11 @@
+#rows #columns {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    height: 3rem;
+    width: 3rem;
+    border: solid rgb(255, 123, 0);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
