@@ -1,6 +1,7 @@
 function createGrid() {
-  let rows = document.getElementById("rows");
-  let columns = document.getElementById("columns");
+  const container = document.getElementById("container");
+  let rows = document.getElementByClassName("rows");
+  let cells = document.getElementByClassName("cells");
 }
 
 createGrid();
